@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Olho de Quimera-jovem",
+    "price": "R$806",
+    "description": "O olhar incandescente de uma Quimera jovem, este olho vermelho flamejante exala uma energia primitiva e selvagem. Proveniente de uma das primeiras gerações dessa criatura mítica, ele possui uma aura de mistério e poder. Dizem que aqueles que olham diretamente para ele sentem uma conexão com forças ancestrais, capazes de alterar a percepção da realidade. Este item raro é cobiçado por feiticeiros e caçadores de relíquias, pois acredita-se que seu poder possa amplificar habilidades mágicas ou revelar segredos ocultos.",
+    "img": "eye",
+    "inventory": 10
+  },
+  {
+    "name": "Poção estranha",
+    "price": "R$540",
+    "description": "Uma poção misteriosa, de cor cintilante, que muda conforme a luz. Seu cheiro peculiar deixa no ar uma sensação de incerteza: doce, mas amarga ao mesmo tempo. Com origem desconhecida, é falado que seus efeitos podem ser tanto benéficos quanto perigosos. A verdadeira natureza desse líquido nunca foi revelada, e apenas os mais ousados se arriscam a beber dessa mistura enigmática. Alguns dizem que ela pode conceder habilidades temporárias, mas ninguém sabe ao certo.",
+    "img": "bottle",
+    "inventory": 20
+  },
+  {
+    "name": "Grimório",
+    "price": "R$806",
+    "description": "Este grimório é uma porta para o desconhecido, suas páginas empoeiradas guardam segredos obscuros e proibidos. Cada palavra escrita nele parece sussurrar em uma língua esquecida, uma linguagem que os mortais não devem compreender. Aqueles que ousam abri-lo podem sentir uma presença sombria, uma força maligna que desperta a cada feitiço conjurado. Escrito com tinta que parece ter sido extraída de uma fonte sinistra, este livro promete não apenas o conhecimento, mas o preço que vem com ele — um preço que poucos estão dispostos a pagar.",
+    "img": "book",
+    "inventory": 10
+  },
+  {
+    "name": "Mão de Orc",
+    "price": "R$700",
+    "description": "Esta mão de orc é um troféu de batalhas sangrentas e glórias conquistadas com ferro e sangue. Suas cicatrizes profundas falam de inúmeros confrontos, enquanto os dedos grossos, ainda com a força de seu dono, carregam o peso de vitórias épicas. Usada como amuleto por guerreiros e aventureiros, ela simboliza coragem e resistência",
+    "img": "hand",
+    "inventory": 30
+  },
+  {
+    "name": "Ovo comum",
+    "price": "R$50",
+    "description": "Um ovo simples, sem mistérios… ou talvez com um. Quem sabe ele vire algo interessante, ou apenas uma omelete.",
+    "img": "egg",
+    "inventory": 200
+  },
+  {
+    "name": "Alho contra vampiros",
+    "price": "R$100",
+    "description": "Este alho não é apenas um tempero – é o pesadelo dos vampiros. Porque, claro, o único truque para se proteger contra criaturas das trevas é algo tão complexo quanto um ramo de alho. Mas quem somos nós para questionar o que funciona, não é? Repele vampiros, mas talvez também atrapalhe seu jantar. Quem sabe?",
+    "img": "garlic",
+    "inventory": 200
+  }
+]
