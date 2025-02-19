@@ -14,7 +14,7 @@ const Menu: React.FC = () => {
   return (
     <div className="w-full h-full flex justify-end ">
       <div
-        className={`${className} bg-whiteClean fixed flex transition-all duration-500`}
+        className={`${className} bg-whiteClean fixed z-[2] flex transition-all duration-500`}
       >
         <img
           onClick={() => {
